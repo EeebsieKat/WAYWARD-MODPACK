@@ -1,0 +1,22 @@
+{
+	"modpack_name": "Wayward Path",
+	"modpack_version": "1.2.0",
+	"minecraft_version": "1.20.1",
+	"forge_version": "47.3.0",
+	"mods": [
+		{
+			"name": "Twilight Forest",
+			"version": "4.3.2",
+			"category": "dimension",
+			"required": true,
+			"filename": "twilightforest-1.20.1-4.3.2.jar"
+		},
+		{
+			"name": "Create",
+			"version": "0.5.1",
+			"category": "technology",
+			"required": true,
+			"filename": "create-1.20.1-0.5.1.jar"
+		}
+	]
+}

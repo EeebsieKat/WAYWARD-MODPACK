@@ -1,50 +1,56 @@
-[
-	{
-		"name": "Enchancement",
-		"version": "1.20-26",
-		"category": "magic",
-		"required": true,
-		"filename": "enchancement-1.20-26.jar",
-		"download_url": "https://modrinth.com/mod/6hN1V6wJ"
-	},
-	{
-		"name": "Enchancement Unbound",
-		"version": "1.0.6+1.20-24+26",
-		"category": "magic",
-		"required": true,
-		"filename": "enchancement_unbound-1.0.6+1.20-24+26.jar",
-		"download_url": "https://modrinth.com/mod/5vggpqYZ"
-	},
-	{
-		"name": "Fully Enchanced",
-		"version": "1.1-1.20.1",
-		"category": "magic",
-		"required": true,
-		"filename": "fullyenchanced-1.1-1.20.1.jar",
-		"download_url": "https://modrinth.com/mod/ZwqMp1J0"
-	},
-	{
-		"name": "Quilted Fabric API",
-		"version": "7.7.0+0.92.2-1.20.1",
-		"category": "library",
-		"required": true,
-		"filename": "qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar",
-		"download_url": "https://modrinth.com/mod/qvIfYCYJ"
-	},
-	{
-		"name": "Reeling Scythes",
-		"version": "2.0.1",
-		"category": "magic",
-		"required": true,
-		"filename": "reeling_scythes-2.0.1.jar",
-		"download_url": "https://modrinth.com/mod/YATddOpI"
-	},
-	{
-		"name": "ToolTip Fix",
-		"version": "1.1.1-1.20",
-		"category": "utility",
-		"required": true,
-		"filename": "tooltipfix-1.1.1-1.20.jar",
-		"download_url": "https://modrinth.com/mod/2RKFTmiB"
-	}
-]
+{
+	"modpack_name": "Wayward Path",
+	"modpack_version": "1.2.0",
+	"minecraft_version": "1.20.1",
+	"forge_version": "47.3.12",
+	"mods": [
+		{
+			"name": "Enchancement",
+			"version": "1.20-26",
+			"category": "magic",
+			"required": true,
+			"filename": "enchancement-1.20-26.jar",
+			"download_url": "https://cdn.modrinth.com/data/6hN1V6wJ/versions/mGY2pNFa/enchancement-1.20-26.jar"
+		},
+		{
+			"name": "Enchancement Unbound",
+			"version": "1.0.6+1.20-24+26",
+			"category": "magic",
+			"required": true,
+			"filename": "enchancement_unbound-1.0.6+1.20-24+26.jar",
+			"download_url": "https://cdn.modrinth.com/data/5vggpqYZ/versions/2IrfqAlU/enchancement_unbound-1.0.6%2B1.20-24%2B26.jar"
+		},
+		{
+			"name": "Fully Enchanced",
+			"version": "1.1-1.20.1",
+			"category": "magic",
+			"required": true,
+			"filename": "fullyenchanced-1.1-1.20.1.jar",
+			"download_url": "https://cdn.modrinth.com/data/ZwqMp1J0/versions/HXa1e9IZ/fullyenchanced-1.1-1.20.1.jar"
+		},
+		{
+			"name": "Quilted Fabric API",
+			"version": "7.7.0+0.92.2-1.20.1",
+			"category": "library",
+			"required": true,
+			"filename": "qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar",
+			"download_url": "https://cdn.modrinth.com/data/qvIfYCYJ/versions/s8dfz9Xa/qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar"
+		},
+		{
+			"name": "Reeling Scythes",
+			"version": "2.0.1",
+			"category": "magic",
+			"required": true,
+			"filename": "reeling_scythes-2.0.1.jar",
+			"download_url": "https://cdn.modrinth.com/data/YATddOpI/versions/cw59YqkF/reeling_scythes-2.0.1.jar"
+		},
+		{
+			"name": "ToolTip Fix",
+			"version": "1.1.1-1.20",
+			"category": "utility",
+			"required": true,
+			"filename": "tooltipfix-1.1.1-1.20.jar",
+			"download_url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
+		}
+	]
+}
